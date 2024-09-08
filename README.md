@@ -1,4 +1,4 @@
-# Ipro-cyber
+# Ipro-cyber assignment links
 
 
 [Assignment 01](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EU1bGtpZTDJPgC1mwU1nZVEBd1Xa81UTpCSVlHFe4FitKQ?e=gHbOA7)
@@ -9,6 +9,6 @@
 
 [Assignment 04: Product’s Technical Architecture](https://docs.google.com/document/d/1D90DTtPEGN-mdcDAPLQ9UJLvTDtN4bF1gYLkc0uP63I/edit?usp=sharing)
 
-[Assignment 05: Verify User Story](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EcB6qt5arqFPryTkB8xASQ8BUMM8t_vP44n55cUaVo6Sxg?e=uheZy2)
+[Assignment 05: Verify User Story](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EcB6qt5arqFPryTkB8xASQ8BUMM8t_vP44n55cUaVo6Sxg?e=fglFuz)
 
 [Logo Workshop](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EbKIEocLeFVJkWf6qwT_hnoB-C8ml-w8sRpfO6E1Qc6Hbg?e=0YzXTB)
