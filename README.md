@@ -15,3 +15,9 @@ Assignments:
 - [Logo Workshop](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EbKIEocLeFVJkWf6qwT_hnoB-C8ml-w8sRpfO6E1Qc6Hbg?e=0YzXTB)
 
 To Do:
+
+- Basic HTML website mockup
+
+- Set up SQL Servers
+
+- Come up with Lessons for our module
