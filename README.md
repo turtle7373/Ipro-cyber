@@ -1,5 +1,7 @@
 # Ipro-cyber assignment links
 
+[To Do List (sheets)](https://docs.google.com/spreadsheets/d/1mhbSghcvdvS9vP_-Ohqyv3TdPYin4kqt0TeugkzTadc/edit?usp=sharing)
+
 Assignments:
   
 - [Assignment 01](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EU1bGtpZTDJPgC1mwU1nZVEBd1Xa81UTpCSVlHFe4FitKQ?e=gHbOA7)
