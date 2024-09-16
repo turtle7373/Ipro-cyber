@@ -1,4 +1,4 @@
-# Ipro-cyber assignment links
+[Lesson Plan Doc](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EYa-klWT8MZBlPdsIdRWNAkB5-vrX8vAQndYACU6tW9o5w?e=n45RCO)
 
 [To Do List (sheets)](https://docs.google.com/spreadsheets/d/1mhbSghcvdvS9vP_-Ohqyv3TdPYin4kqt0TeugkzTadc/edit?usp=sharing)
 
@@ -15,6 +15,8 @@ Assignments:
 - [Assignment 05: Verify User Story](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EcB6qt5arqFPryTkB8xASQ8BUMM8t_vP44n55cUaVo6Sxg?e=fglFuz)
   
 - [Logo Workshop](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EbKIEocLeFVJkWf6qwT_hnoB-C8ml-w8sRpfO6E1Qc6Hbg?e=0YzXTB)
+
+
 
 To Do:
 
