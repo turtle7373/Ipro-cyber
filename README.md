@@ -1,3 +1,7 @@
+email: dfend.iit@gmail.com
+pass: Dfendiit!123
+
+
 [Lesson Plan Doc](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EYa-klWT8MZBlPdsIdRWNAkB5-vrX8vAQndYACU6tW9o5w?e=n45RCO)
 
 [To Do List (sheets)](https://docs.google.com/spreadsheets/d/1mhbSghcvdvS9vP_-Ohqyv3TdPYin4kqt0TeugkzTadc/edit?usp=sharing)
