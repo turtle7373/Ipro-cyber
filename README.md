@@ -4,6 +4,8 @@ pass: Dfendiit!123
 
 d-fend.net
 
+ensj-lrsy-qzez-pocm-pirx
+
 
 [Lesson Plan Doc](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EYa-klWT8MZBlPdsIdRWNAkB5-vrX8vAQndYACU6tW9o5w?e=n45RCO)
 
