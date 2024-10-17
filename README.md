@@ -6,6 +6,7 @@ d-fend.net
 
 ensj-lrsy-qzez-pocm-pirx
 
+[FINAL POSTER ppt](https://iit0-my.sharepoint.com/:p:/g/personal/jlauer1_hawk_iit_edu/EaQ3wvG2Bj9CsXdC6DsMzq0B6NTcrcV3HeHQj7sSc859Yg?e=uSlqLH)
 
 [Lesson Plan Doc](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EYa-klWT8MZBlPdsIdRWNAkB5-vrX8vAQndYACU6tW9o5w?e=n45RCO)
 
