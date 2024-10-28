@@ -12,7 +12,7 @@ ensj-lrsy-qzez-pocm-pirx
 
 [Module 1 Test: Injection](https://iit0-my.sharepoint.com/:w:/g/personal/dstone3_hawk_iit_edu/EQQuf-kL-MhEu8n4V1EdI0wBBVptf990TkGGE-loFxdmPQ?e=GqQJwb)
 
-[Module 2 Test: Cyptography](https://iit0-my.sharepoint.com/:w:/r/personal/dstone3_hawk_iit_edu/Documents/Document%202.docx?d=wcf593c4e68464664b4b33f7db916c076&csf=1&web=1&e=wptmnV)
+[Module 2 Test: Cyptography](https://iit0-my.sharepoint.com/:w:/g/personal/dstone3_hawk_iit_edu/EU48Wc9GaGRGtLM_fbkWwHYBKbizHDIrJog07w1sj0cGMg?e=hy44rZ)
 
 [To Do List (sheets)](https://docs.google.com/spreadsheets/d/1mhbSghcvdvS9vP_-Ohqyv3TdPYin4kqt0TeugkzTadc/edit?usp=sharing)
 
