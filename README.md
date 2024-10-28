@@ -1,3 +1,5 @@
+[10.28 presentation](https://iit0-my.sharepoint.com/:p:/g/personal/jlauer1_hawk_iit_edu/ERB9nMdW6WFJm9cjQTbBgjMBcDVHRyok0xNSkG_IFdQq1A?e=CVgpZt)
+
 email: dfend.iit@gmail.com
 
 pass: Dfendiit!123
