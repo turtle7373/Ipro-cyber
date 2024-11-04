@@ -8,7 +8,7 @@ d-fend.net
 
 ensj-lrsy-qzez-pocm-pirx
 
-[FINAL POSTER ppt](https://iit0-my.sharepoint.com/:p:/g/personal/jlauer1_hawk_iit_edu/EaQ3wvG2Bj9CsXdC6DsMzq0B6NTcrcV3HeHQj7sSc859Yg?e=uSlqLH)
+[FINAL POSTER ppt](https://iit0-my.sharepoint.com/:p:/r/personal/jlauer1_hawk_iit_edu/Documents/dfend%20poster.pptx?d=w1399ccbfe0774ef9be767436b4643739&csf=1&web=1&e=cmqFc5)
 
 [Lesson Plan Doc](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EYa-klWT8MZBlPdsIdRWNAkB5-vrX8vAQndYACU6tW9o5w?e=n45RCO)
 
