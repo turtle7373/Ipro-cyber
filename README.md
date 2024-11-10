@@ -1,3 +1,5 @@
+Business Plan Docx(https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EetpqhVm4NxCiuUZejBClxYB-3H4GrIhnFWBP0o_qazdZQ?e=nBzBJd)
+
 [survey questions](https://iit0-my.sharepoint.com/:w:/g/personal/jlauer1_hawk_iit_edu/EdBZey5ol0hJoL3c8r2w3eYBQORo_SgOacEtPNFXJW2Xrg?e=fyRO6H)
 
 https://forms.gle/FaB26bS6UV199tU58
